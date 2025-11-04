@@ -10,7 +10,7 @@
 ## 📜 目录
 - [平江路：石桥下的水声](old-streets/pingjiang-road.md)
 - [沧浪亭：风过古水](ancient-buildings/canglang-pavilion.md)
-- [拙政园：一园一世界](classical-garrdens-zhuozheng-garden.md)
+- [拙政园：一园一世界](classical-gardens/zhuozheng-garden.md)
 ---
 
 📅 Created by Jin San · 2025  
