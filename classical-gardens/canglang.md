@@ -2,7 +2,7 @@
 
 > “问渠哪得清如许，为有源头活水来。”
 
-![沧浪亭全景](images/canglang.jpg)
+![沧浪亭](../images/canglang.jpg)
 
 ---
 
